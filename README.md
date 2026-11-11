@@ -27,4 +27,4 @@ State is stored under a `DBMS/` folder created next to the script. Each database
 
 ## Notes
 
-This was an academic exercise to model a tiny relational system without any actual database engine — useful for learning Bash control flow, file I/O and regex validation.
+This was an academic exercise to model a tiny relational system without any actual database engine. It was useful for learning Bash control flow, file I/O and regex validation.
